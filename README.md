@@ -1,5 +1,5 @@
 # 💫 About Me:
-🟡I am Sakib Mahmud from esakib.com<br>🟢I am a computer science student from Bangladesh<br>🔴I write technical and educational articles<br>🔘I know search engine optimization
+🟡I am Sakib Mahmud<br>🟢I am a computer science student from Bangladesh<br>🔴I write technical and educational articles<br>🔘I know search engine optimization
 
 
 ## 🌐 Socials:
